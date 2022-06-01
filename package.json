@@ -1,0 +1,14 @@
+{
+  "name": "coding_email",
+  "version": "1.0.0",
+  "description": "coding email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wes Vinson",
+  "license": "ISC",
+  "dependencies": {
+    "mdb-ui-kit": "^4.1.0"
+  }
+}
